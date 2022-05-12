@@ -1,2 +1,2 @@
 # Testing Practice
-Testing practice using jest.
+Testing practice using Jest.
